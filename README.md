@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atharv Porate</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" align="right" width = 400>
-- 🔭 I’m currently working on [Blog-website](https://github.com/AtharvPorate1/Blog-website)
+- 🔭 I’m currently working on [Glistopia](https://github.com/AtharvPorate1/Glistopia)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Natural Language Processing**
 
 - 💬 Ask me about **Django, React, Unity**
 
